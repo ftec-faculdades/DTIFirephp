@@ -17,6 +17,7 @@ Licença MIT - Utilizado nas ferramentas e sistemas da Ftec | Faculdadades.
     return array (
     'modules' => array(
     	'DTILog',
+    	'DTIFirephp',
     	/* ... */
     ),
 ```
