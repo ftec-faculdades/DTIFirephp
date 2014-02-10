@@ -19,7 +19,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "DTILog": "src/"
+            "DTIFirephp": "src/"
         }
     }
 }
